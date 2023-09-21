@@ -1,0 +1,76 @@
+Column: label wiegand
+
+Confusion Matrix:
+
+          Predicted 0  Predicted 1
+Actual 0          485          135
+Actual 1          107          133
+
+
+Precision, Recall, F1-Score per Category:
+  Label  Precision    Recall  F1-Score
+0     0   0.819257  0.782258  0.800330
+1     1   0.496269  0.554167  0.523622
+
+
+Macro-F1:
+      Label  label wiegand
+0  Macro-F1       0.661976
+--------------------------------------------------------------------------------
+Column: label hurtlex
+
+Confusion Matrix:
+
+          Predicted 0  Predicted 1
+Actual 0          485          135
+Actual 1          107          133
+
+
+Precision, Recall, F1-Score per Category:
+  Label  Precision    Recall  F1-Score
+0     0   0.819672  0.161290  0.269542
+1     1   0.295393  0.908333  0.445808
+
+
+Macro-F1:
+      Label  label hurtlex
+0  Macro-F1       0.357675
+--------------------------------------------------------------------------------
+Column: label mol
+
+Confusion Matrix:
+
+          Predicted 0  Predicted 1
+Actual 0          485          135
+Actual 1          107          133
+
+
+Precision, Recall, F1-Score per Category:
+  Label  Precision    Recall  F1-Score
+0     0   0.849490  0.537097  0.658103
+1     1   0.386752  0.754167  0.511299
+
+
+Macro-F1:
+      Label  label mol
+0  Macro-F1   0.584701
+--------------------------------------------------------------------------------
+Column: label merged
+
+Confusion Matrix:
+
+          Predicted 0  Predicted 1
+Actual 0          485          135
+Actual 1          107          133
+
+
+Precision, Recall, F1-Score per Category:
+  Label  Precision    Recall  F1-Score
+0     0   0.833333  0.145161  0.247253
+1     1   0.295213  0.925000  0.447581
+
+
+Macro-F1:
+      Label  label merged
+0  Macro-F1      0.347417
+--------------------------------------------------------------------------------
