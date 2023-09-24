@@ -1,10 +1,5 @@
 Column: label wiegand
 
-Confusion Matrix:
-
-          Predicted 0  Predicted 1
-Actual 0          485          135
-Actual 1          107          133
 
 
 Precision, Recall, F1-Score per Category:
@@ -19,11 +14,6 @@ Macro-F1:
 --------------------------------------------------------------------------------
 Column: label hurtlex
 
-Confusion Matrix:
-
-          Predicted 0  Predicted 1
-Actual 0          100          520
-Actual 1           22          218
 
 
 Precision, Recall, F1-Score per Category:
@@ -38,11 +28,6 @@ Macro-F1:
 --------------------------------------------------------------------------------
 Column: label mol
 
-Confusion Matrix:
-
-          Predicted 0  Predicted 1
-Actual 0          333          287
-Actual 1           59          181
 
 
 Precision, Recall, F1-Score per Category:
@@ -57,11 +42,6 @@ Macro-F1:
 --------------------------------------------------------------------------------
 Column: label merged
 
-Confusion Matrix:
-
-          Predicted 0  Predicted 1
-Actual 0           90          530
-Actual 1           18          222
 
 
 Precision, Recall, F1-Score per Category:
